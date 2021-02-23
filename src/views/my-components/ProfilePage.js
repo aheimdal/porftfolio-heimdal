@@ -81,7 +81,7 @@ function ProfilePage() {
                 <strong>Hobbies:</strong> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, Whiskey, DIY and spending time with my son.
               </h5>
               <h5>
-                <strong>Short Bio:</strong> I am searching for my first job opportunity in the field of game, software or web development. I am an easy going person that has a good sense of humor, since I have been playing team sports most of my life I highly value teamwork. My dream is to work in game development with a respected company in the future.
+                <strong>Short Bio:</strong> I am an easy going person that has a good sense of humor, I work hard and I highly value teamwork, since I been playing team sport most of my life. My dream is to work in game development with a respected company in the future.
               </h5>
               <br />
             </Col>
