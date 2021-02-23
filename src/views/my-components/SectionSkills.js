@@ -34,8 +34,8 @@ function SectionSkills() {
             </Col>
           </Row>
           <Row>
-            <Col className="ml-auto mr-auto text-center" md="6">
-              <h5 className="title"><strong>Over the years I have accumulate skills and knowledge in several programming languages and frameworks</strong></h5>
+            <Col className="ml-auto mr-auto text-center" md="8">
+              <h5 className="title"><strong>Over the years I have accumulated skills and knowledge in several programming languages and frameworks. The languages I know the most are Javascript and C#, the frameworks I have gotten to know and have some skill in using are React and Angular, I like React a bit more since there are more documentations and tutorials online to learn something new. I have good grasp on PostgreSQL and MySQL and I do not prefer either one over the other. I have experience in using the Unity Engine in developing games there but nothing I have published yet. </strong></h5>
             </Col>
           </Row>
         </Container>
