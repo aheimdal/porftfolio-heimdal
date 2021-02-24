@@ -76,7 +76,7 @@ function ProfilePage() {
                 <div className="description ">Education:</div>  Computer Science - BS  (University of Iceland)
               </h6>
               <h6>
-                <div className="description ">Current Occupation:</div> Crane Operator / Window Cleaner (Self-Employed) / Developer
+                <div className="description ">Current Occupation:</div> Developer / Crane Operator / Window Cleaner (Self-Employed)
               </h6>
               <h6>
                 <div className="description ">Hobbies:</div> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, DIY and spending time with my son.
