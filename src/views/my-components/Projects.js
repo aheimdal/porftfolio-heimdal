@@ -31,11 +31,12 @@ function Projects() {
         <Row>
             <Col className="ml-auto mr-auto text-center" md="8">
               <h2 className="title"><strong>Projects</strong></h2>
-              <h6 className="description">
+              <h6>
                 Here are some projects I have been a part of and other projects I am working on.
               </h6>
             </Col>
           </Row>
+          <hr/>
           <Row className="example-page">
             <Col className="text-center" md="6">
               <a href="examples/landing.html" target="_blank">

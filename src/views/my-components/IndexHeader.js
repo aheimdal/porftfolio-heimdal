@@ -20,7 +20,7 @@
 import React from "react";
 
 // reactstrap components
-import { Container } from "reactstrap";
+import { Container, Col, Row } from "reactstrap";
 
 // core components
 
@@ -31,12 +31,15 @@ function IndexHeader() {
         className="page-header section-dark"
         style={{
           backgroundImage:
-            "url(" + require("assets/img/nature.jpg") + ")",
+            "url(" + require("assets/img/keilir.jpg") + ")",
         }}
       >
         <div className="filter" />
         <div className="content-center">
           <Container>
+          <h2 className="presentation-subtitle text-center">
+              Hi, My Name Is
+            </h2>
             <div className="title-brand">
               <h1 className="presentation-title">Anton H. Heimdal</h1>
               <div className="fog-low">
@@ -47,7 +50,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Game, software and web developer!
+              Game, Software and Web developer!
             </h2>
           </Container>
         </div>

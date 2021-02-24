@@ -60,29 +60,34 @@ function ProfilePage() {
               <h6 className="description">Developer</h6>
             </div>
           </div>
-          <Row>
-            <Col className="ml-auto mr-auto text-left" md="8">
-              <h5>
-                <strong>Full Name:</strong> Anton H. Heimdal Sigrúnarsson
-              </h5>
-              <h5>
-                <strong>Age:</strong> 35 years
-              </h5>
-              <h5>
-                <strong>Nationality:</strong> Icelandic
-              </h5>
-              <h5>
-                <strong>Education: </strong> Computer Science - BS  (University of Iceland)
-              </h5>
-              <h5>
-                <strong>Current Occupation:</strong> Crane Operator / Window Cleaner (Self-Employed) / Developer
-              </h5>
-              <h5>
-                <strong>Hobbies:</strong> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, Whiskey, DIY and spending time with my son.
-              </h5>
-              <h5>
-                <strong>Short Bio:</strong> I am an easy going person that has a good sense of humor, I work hard and I highly value teamwork, since I been playing team sport most of my life. My dream is to work in game development with a respected company in the future.
-              </h5>
+          <hr/>
+           <Row>
+            <Col className="ml-auto mr-auto text-left" md="6">
+              <h6>
+                <div className="description ">Full Name:</div> Anton H. Heimdal Sigrúnarsson
+              </h6>
+              <h6>
+                <div className="description ">Age:</div> 35 years
+              </h6>
+              <h6>
+                <div className="description ">Nationality:</div> Icelandic
+              </h6>
+              <h6>
+                <div className="description ">Education:</div>  Computer Science - BS  (University of Iceland)
+              </h6>
+              <h6>
+                <div className="description ">Current Occupation:</div> Crane Operator / Window Cleaner (Self-Employed) / Developer
+              </h6>
+              <h6>
+                <div className="description ">Hobbies:</div> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, Whiskey, DIY and spending time with my son.
+              </h6>
+              <h6>
+                <div className="description ">Short Bio:</div> I am an easy going and honest person that has a good sense of humor, I work hard and I highly value teamwork since I have been playing team sports most of my life.</h6> 
+                <h6>The main reason I got into the development and programming field was because of games. I have always been interested in how games are made from conception to a finished product. The more I learned the more I realized it does not only apply to building complex games but also complex softwares and other digital infrastructures.
+              </h6>
+              <h6>
+                My dream is to get in to game development and be a part of the entertainment industry.
+              </h6>
               <br />
             </Col>
           </Row>
