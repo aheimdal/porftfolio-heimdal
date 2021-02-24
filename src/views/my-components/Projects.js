@@ -81,7 +81,7 @@ function Projects() {
                 target="_blank"
                 disabled = "disabled"
               >
-                Visit Page Unavailabe
+                Unavailabe
               </Button>
               <Button
                 className="btn-outline-default btn-round ml-3"

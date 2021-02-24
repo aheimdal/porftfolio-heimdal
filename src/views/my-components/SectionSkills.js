@@ -19,14 +19,14 @@
 import React from "react";
 
 // reactstrap components
-import { Container, Row, Col } from "reactstrap";
+import {Button, Container, Row, Col } from "reactstrap";
 
 // core components
 
 function SectionSkills() {
   return (
     <>
-      <div className="section section-dark">
+      <div className="section section-dark" id="skills">
         <Container>
           <Row>
             <Col className="ml-auto mr-auto text-center" md="6">
@@ -34,8 +34,21 @@ function SectionSkills() {
             </Col>
           </Row>
           <Row>
-            <Col className="ml-auto mr-auto text-center" md="8">
+            <Col className="ml-auto mr-auto text-center" md="6">
               <h5 className="title"><strong>Over the years I have accumulated skills and knowledge in several programming languages and frameworks. The languages I know the most are Javascript and C#. Frameworks I have gotten to know and have some skill in using are React and Angular, I like React a bit more since there are more documentations and tutorials online to learn something new. I have good grasp on PostgreSQL and MySQL and I do not prefer either one over the other. I have experience in using the Unity Engine in developing games there but nothing I have published yet. </strong></h5>
+            </Col>
+          </Row>
+          <Row>
+            <Col className="ml-auto mr-auto text-center">
+              <Button
+                className="btn-outline-neutral btn-round"
+                color="default"
+                href={require("../../assets/cv/Resumé.pdf")}
+                target="_blank"
+                download
+              >
+              Resumé (PDF)
+              </Button>
             </Col>
           </Row>
         </Container>

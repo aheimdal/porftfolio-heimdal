@@ -112,12 +112,27 @@ function IndexNavbar() {
                 to="projects"
                 spy={true}
                 smooth={true}
-                offset={-300}
+                offset={-100}
                 duration={500}
                 style={{cursor:'pointer'}}
                 title="List of Projects"
               >
                 <p className="d-lg">Projects</p>
+              </Link>
+            </NavLink>
+            </NavItem>
+            <NavItem>
+            <NavLink>
+              <Link
+                to="skills"
+                spy={true}
+                smooth={true}
+                offset={-300}
+                duration={500}
+                style={{cursor:'pointer'}}
+                title="Skills"
+              >
+                <p className="d-lg">Skills</p>
               </Link>
             </NavLink>
             </NavItem>
