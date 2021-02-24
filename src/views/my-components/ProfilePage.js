@@ -79,7 +79,7 @@ function ProfilePage() {
                 <div className="description ">Current Occupation:</div> Crane Operator / Window Cleaner (Self-Employed) / Developer
               </h6>
               <h6>
-                <div className="description ">Hobbies:</div> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, Whiskey, DIY and spending time with my son.
+                <div className="description ">Hobbies:</div> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, DIY and spending time with my son.
               </h6>
               <h6>
                 <div className="description ">Short Bio:</div> I am an easy going and honest person that has a good sense of humor, I work hard and I highly value teamwork since I have been playing team sports most of my life.</h6> 
