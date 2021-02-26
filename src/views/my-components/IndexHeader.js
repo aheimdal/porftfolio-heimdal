@@ -50,7 +50,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              and I'm a game, software and web developer!
+              Game, software and web developer!
             </h2>
           </Container>
         </div>

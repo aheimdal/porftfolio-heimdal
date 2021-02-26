@@ -76,7 +76,7 @@ function Projects() {
                   style={{ width: "100%" }}
                 />
               </a>
-              <!-- <Button
+              {/*<Button
                 className="btn-outline-default btn-round"
                 color="default"
                 href="/profile-page"
@@ -84,7 +84,7 @@ function Projects() {
                 disabled="disabled"
               >
                 Unavailabe
-              </Button> -->
+              </Button> */}
               <Button
                 className="btn-outline-default btn-round ml-3"
                 color="default"

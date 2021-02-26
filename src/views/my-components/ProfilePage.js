@@ -67,7 +67,7 @@ function ProfilePage() {
                 <div className="description ">Education:</div>  Computer Science - BS  (University of Iceland)
               </h6>
               <h6>
-                <div className="description ">Who am I?</div> I am an honest and easy-going. A born and bred team player, having practiced team sports since I was a child. Also a focused hard worker.</h6>
+                <div className="description ">Who am I?</div> I am an honest and easy-going individual. A born and bred team player, having practiced team sports since I was a child. Also a focused hard worker.</h6>
               <h6>
                 I got into the development because of my passion for video games. I've always been interested in how games are made; from concept to completion. As my knowledge in the field has increased I've come to realize that my passion isn't solely building complex games, but also software and other digital systems.
               </h6>
