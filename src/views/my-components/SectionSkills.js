@@ -37,7 +37,7 @@ function SectionSkills() {
           <Row>
             <Col className="ml-auto mr-auto text-center" md="6">
               <h5><strong>
-              Over the years I have accumulated skills and knowledge in several programming languages and frameworks. My preferred Operating System is Windows but I have also used Linux as well. The languages I know the most are Javascript and C# and have some experience in using Java and Python. Frameworks I have gotten to know and have some skill in using are React and Angular, I like React a bit more since there are more documentations and tutorials online to learn something new. I have good grasp on PostgreSQL and MySQL and I do not prefer either one over the other. I have become quite comfortable using Visual Studio Code to do all my work and love all the neat extension that are available to make coding life easier.
+              Over the years I have accumulated skills and knowledge in several programming languages and frameworks. My preferred Operating System is Windows but I have experience in using Linux as well. The languages I know the most are Javascript and C# and have some experience in using Java and Python. Frameworks I have gotten to know and have some skill in using are React and Angular, I like React a bit more since there are more documentations and tutorials online to learn something new. I have good grasp on PostgreSQL and MySQL and I do not prefer either one over the other. I have become quite comfortable using Visual Studio Code to do all my work and love all the neat extension that are available to make coding life easier.
               </strong></h5>
               <div className="mt-5"/>
               <h5><strong>
@@ -49,13 +49,22 @@ function SectionSkills() {
           <Row className="mt-5">
             <Col className="ml-auto mr-auto text-center">
               <Button
-                className="btn-outline-neutral btn-round"
+                className="btn-outline-neutral btn-round mr-2"
                 color="default"
-                href={require("../../assets/cv/Resumé.pdf")}
+                href={require("../../assets/cv/resume.pdf")}
                 target="_blank"
                 download
               >
               Resumé (PDF)
+              </Button>
+              <Button
+                className="btn-outline-neutral btn-round ml-2"
+                color="default"
+                href={require("../../assets/cv/en-certificate.pdf")}
+                target="_blank"
+                download
+              >
+              BS-Certificate (PDF)
               </Button>
             </Col>
           </Row>
