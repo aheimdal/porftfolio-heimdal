@@ -37,8 +37,8 @@ function IndexHeader() {
         <div className="filter" />
         <div className="content-center">
           <Container>
-          <h2 className="presentation-subtitle text-center">
-              Hi, My Name Is
+            <h2 className="presentation-subtitle text-center">
+              Hi, my name is
             </h2>
             <div className="title-brand">
               <h1 className="presentation-title">Anton H. Heimdal</h1>
@@ -50,7 +50,7 @@ function IndexHeader() {
               </div>
             </div>
             <h2 className="presentation-subtitle text-center">
-              Game, Software and Web developer!
+              and I'm a game, software and web developer!
             </h2>
           </Container>
         </div>

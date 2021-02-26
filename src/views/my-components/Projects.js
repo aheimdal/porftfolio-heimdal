@@ -28,15 +28,15 @@ function Projects() {
     <>
       <div className="section" id="projects">
         <Container>
-        <Row>
+          <Row>
             <Col className="ml-auto mr-auto text-center" md="8">
               <h2 className="title"><strong>Projects</strong></h2>
               <h6>
-                Here are some projects I have been a part of and other projects I am working on.
+                A list of my current and previous projects:
               </h6>
             </Col>
           </Row>
-          <hr/>
+          <hr />
           <Row className="example-page">
             <Col className="text-center" md="6">
               <a href="examples/landing.html" target="_blank">
@@ -63,8 +63,9 @@ function Projects() {
               >
                 Source Code
               </Button>
-              <h6 class="mt-3">This Javascript Game was created by 4 students at the University of Iceland. Working together as 
-                                a team to complete the assignment for "Computer Game Programming" - (TÖL308G - Fall 2018)</h6>
+              <h6 class="mt-3">
+                A Megaman clone built with JavaScript, in collaboration with three other developers.
+                </h6>
             </Col>
             <Col className="text-center" md="6">
               <a href="examples/profile.html" target="_blank">
@@ -75,15 +76,15 @@ function Projects() {
                   style={{ width: "100%" }}
                 />
               </a>
-              <Button
+              <!-- <Button
                 className="btn-outline-default btn-round"
                 color="default"
                 href="/profile-page"
                 target="_blank"
-                disabled = "disabled"
+                disabled="disabled"
               >
                 Unavailabe
-              </Button>
+              </Button> -->
               <Button
                 className="btn-outline-default btn-round ml-3"
                 color="default"
@@ -92,8 +93,9 @@ function Projects() {
               >
                 Source Code
               </Button>
-              <h6 class="mt-3">This app was created by 4 students at the University of Iceland. Working together as a team to 
-                  complete the assignment for "Software Project 1" - (HBV501G – Fall 2019)</h6>
+              <h6 class="mt-3">An 
+                A web app built with Angular.
+              </h6>
             </Col>
           </Row>
         </Container>
