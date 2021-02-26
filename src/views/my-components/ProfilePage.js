@@ -57,42 +57,28 @@ function ProfilePage() {
               <h4 className="title">
                 Anton H. Heimdal<br />
               </h4>
-              <h6 className="description">Developer</h6>
+              <h6 className="description">Freelance Developer</h6>
             </div>
           </div>
-          <hr/>
-           <Row>
+          <hr />
+          <Row>
             <Col className="ml-auto mr-auto text-left" md="6">
-              <h6>
-                <div className="description ">Full Name:</div> Anton H. Heimdal Sigrúnarsson
-              </h6>
-              <h6>
-                <div className="description ">Age:</div> 35 years
-              </h6>
-              <h6>
-                <div className="description ">Nationality:</div> Icelandic
-              </h6>
               <h6>
                 <div className="description ">Education:</div>  Computer Science - BS  (University of Iceland)
               </h6>
               <h6>
-                <div className="description ">Current Occupation:</div> Developer / Crane Operator / Window Cleaner (Self-Employed)
+                <div className="description ">Who am I?</div> I am an honest and easy-going. A born and bred team player, having practiced team sports since I was a child. Also a focused hard worker.</h6>
+              <h6>
+                I got into the development because of my passion for video games. I've always been interested in how games are made; from concept to completion. As my knowledge in the field has increased I've come to realize that my passion isn't solely building complex games, but also software and other digital systems.
               </h6>
               <h6>
-                <div className="description ">Hobbies:</div> Football, Hiking, Running, Traveling, Tabletop Board Games, Gaming, DIY and spending time with my son.
-              </h6>
-              <h6>
-                <div className="description ">Short Bio:</div> I am an easy going and honest person that has a good sense of humor, I work hard and I highly value teamwork since I have been playing team sports most of my life.</h6> 
-                <h6>The main reason I got into the development and programming field was because of games. I have always been interested in how games are made from conception to a finished product. The more I learned the more I realized it does not only apply to building complex games but also complex softwares and other digital infrastructures.
-              </h6>
-              <h6>
-                My dream is to get in to game development and be a part of the entertainment industry.
+                I am fiercely concentrated on improving my game development skills by actively participating in the video game industry.
               </h6>
               <br />
             </Col>
           </Row>
         </Container>
-        </div>
+      </div>
     </>
   );
 }

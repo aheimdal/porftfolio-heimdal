@@ -69,7 +69,7 @@ function MyFooter() {
           <h6>
           <div className="credits ml-auto">
             <span className="copyright">
-              © {new Date().getFullYear()}, made with a template from
+              © {new Date().getFullYear()}, built on a template from
               {" "}
               <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
@@ -77,7 +77,7 @@ function MyFooter() {
             Creative Tim
             </strong>
           </a> {" "} 
-          customized by Anton H. Heimdal
+          by Anton H. Heimdal
             </span>
           </div>
           </h6>
