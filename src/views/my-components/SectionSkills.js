@@ -19,7 +19,7 @@
 import React from "react";
 
 // reactstrap components
-import {Button, Container, Row, Col } from "reactstrap";
+import { Button, Container, Row, Col } from "reactstrap";
 
 // core components
 
@@ -33,16 +33,51 @@ function SectionSkills() {
               <h2 className="title"><strong>Skills</strong></h2>
             </Col>
           </Row>
-          <hr/>
+          <hr />
           <Row>
             <Col className="ml-auto mr-auto text-center" md="6">
               <h5><strong>
-              Over the years I have accumulated skills and knowledge in several programming languages and frameworks. My preferred Operating System is Windows but I have also used Linux as well. The languages I know the most are Javascript and C# and have some experience in using Java and Python. Frameworks I have gotten to know and have some skill in using are React and Angular, I like React a bit more since there are more documentations and tutorials online to learn something new. I have good grasp on PostgreSQL and MySQL and I do not prefer either one over the other. I have become quite comfortable using Visual Studio Code to do all my work and love all the neat extension that are available to make coding life easier.
+                <ul>
+                  <li><strong>Operating Systems</strong>
+                    <ul>
+                      <li>Windows ★★★★★</li>
+                      <li>Unix ★★★☆☆</li>
+                    </ul>
+                  </li>
+                  <li><strong>Languages</strong>
+                    <ul>
+                      <li>Javascript ★★★★☆</li>
+                      <li>C# ★★★★☆</li>
+                      <li>Java ★★☆☆☆</li>
+                      <li>Python&nbsp;★★☆☆☆</li>
+                      <li>SQL ★★☆☆☆</li>
+                    </ul>
+                  </li>
+                  <li><strong>Frameworks</strong>
+                    <ul>
+                      <li>React ★★★★☆</li>
+                      <li>Angular ★★★☆☆</li>
+                    </ul>
+                  </li>
+                  <li><strong>Game Engines</strong>
+                    <ul>
+                      <li>Unity ★★★☆☆</li>
+                    </ul>
+                  </li>
+                  <li><strong>Database Management Systems</strong>
+                    <ul>
+                      <li>PostgreSQL ★★★★☆</li>
+                      <li>MySQL ★★★★☆</li>
+                    </ul>
+                  </li>
+                  <li><strong>Tooling</strong>
+                    <ul>
+                      <li>Visual Studio Code ★★★★☆</li>
+                    </ul>
+                  </li>
+                </ul>
               </strong></h5>
-              <div className="mt-5"/>
-              <h5><strong>
-              I have also some knowledge in using Unity Game engine and I am interested in learning more on how to use the game engine to develop games.
-              </strong></h5>
+              <div className="mt-5" />
 
             </Col>
           </Row>
@@ -55,7 +90,7 @@ function SectionSkills() {
                 target="_blank"
                 download
               >
-              Resumé (PDF)
+                Resumé (PDF)
               </Button>
             </Col>
           </Row>
