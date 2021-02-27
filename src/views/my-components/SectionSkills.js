@@ -84,13 +84,22 @@ function SectionSkills() {
           <Row className="mt-5">
             <Col className="ml-auto mr-auto text-center">
               <Button
-                className="btn-outline-neutral btn-round"
+                className="btn-outline-neutral btn-round mr-2"
                 color="default"
-                href={require("../../assets/cv/Resumé.pdf")}
+                href={require("../../assets/cv/resume.pdf")}
                 target="_blank"
                 download
               >
                 Resumé (PDF)
+              </Button>
+              <Button
+                className="btn-outline-neutral btn-round ml-2"
+                color="default"
+                href={require("../../assets/cv/en-certificate.pdf")}
+                target="_blank"
+                download
+              >
+              BS-Certificate (PDF)
               </Button>
             </Col>
           </Row>
