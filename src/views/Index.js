@@ -27,9 +27,9 @@ import MyFooter from "./my-components/MyFooter";
 
 // index sections
 import ProfilePage from "./my-components/ProfilePage";
-import SectionAbout from "./my-components/SectionAbout";
-import Projects from "./my-components/Projects"
 import SectionSkills from "./my-components/SectionSkills";
+import Projects from "./my-components/Projects";
+import SectionAbout from "./my-components/SectionAbout";
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
