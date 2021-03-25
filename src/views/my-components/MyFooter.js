@@ -37,12 +37,12 @@ function MyFooter() {
             <ul>
               <li>
                 <a
-                  href="mailto:heimdal1909@gmail.com"
+                  href="mailto:antonheimdal@protonmail.com"
                   target="_blank"
                 >
-                  <i className="fa fa-google" />
+                  <i className="fa fa-lock" />
                 </a>
-                <h6>Gmail</h6>
+                <h6>Protonmail</h6>
               </li>
               <li>
                 <a
@@ -71,7 +71,7 @@ function MyFooter() {
             <span className="copyright">
               © {new Date().getFullYear()}, built on a template from
               {" "}
-              <ae
+              <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
           ><strong>
             Creative Tim
