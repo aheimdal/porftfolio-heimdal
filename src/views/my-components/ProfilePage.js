@@ -57,7 +57,7 @@ function ProfilePage() {
               <h4 className="title">
                 Anton H. Heimdal<br />
               </h4>
-              <h6 className="description">Freelance Developer</h6>
+              <h6 className="description">Software Developer at <a href="https://www.advania.is">Advania</a></h6>
             </div>
           </div>
           <hr />
